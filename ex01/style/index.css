@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: rgb(238, 180, 22);
+}
+
+img{
+    width: 300px;
+
+}
+
+.column{
+    flex: 33.33%;
+    padding: 5px;
+}
+
+.row {
+    display: flex;
+}
+
+.title{
+    color: rgb(204, 65, 65);
+}
